@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bugatti Bolide
+* source:	https://sketchfab.com/3d-models/bugatti-bolide-379f82ed22f0407b8945623c6b798428
+* author:	Chaserfan (https://sketchfab.com/Chaserfan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bugatti Bolide" (https://sketchfab.com/3d-models/bugatti-bolide-379f82ed22f0407b8945623c6b798428) by Chaserfan (https://sketchfab.com/Chaserfan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
